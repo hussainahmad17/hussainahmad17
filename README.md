@@ -3,6 +3,8 @@ About Me
 I'm a MERN Stack Developer with over a year of hands-on experience building scalable web apps and APIs. I hold a BSc in Software Engineering from NTU and love working with React, Node.js, and MongoDB. I thrive in agile teams and enjoy solving real-world problems with clean code.
 
 Tech Stack & Tools
+![image](https://github.com/user-attachments/assets/be016092-c82d-4cc8-979e-640570f4add8)
+
 
 <p align="center">
   <!-- MERN Stack -->
