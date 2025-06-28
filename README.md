@@ -1,4 +1,7 @@
 ## Hi there 👋
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/your-profile)
 
 <!--
 **hussainahmad17/hussainahmad17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
