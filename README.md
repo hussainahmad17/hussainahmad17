@@ -6,7 +6,7 @@
     <td valign="top" width="60%">
       <h2>🧑‍💻 About Me</h2>
       <p>
-        Hi, I’m <strong>Genius</strong>, a passionate <strong>MERN Stack Developer</strong> with a strong grip on <strong>Data Structures & Algorithms (DSA)</strong> and a vision for crafting <strong>AI-powered, scalable, and high-performance web apps</strong>.
+        Hi, I’m <strong>Hussain Ahmad</strong>, a <strong>MERN Stack Developer</strong> with a grip on <strong>Data Structures & Algorithms (DSA)</strong> and a vision for crafting <strong>AI-powered, scalable, and high-performance web apps</strong>.
       </p>
       <ul>
         <li>🧱 I specialize in the <strong>MERN stack</strong> with deep experience in <strong>Next.js</strong> for SSR and fast rendering</li>
