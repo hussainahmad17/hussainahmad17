@@ -1,29 +1,29 @@
 <h1 align="center">Hi 👋, I'm Hussain Ahmad</h1>
 <h3 align="center">🚀 Providing AI-Powered Full Stack Web Solutions to Businesses</h3>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap; align-items: center; margin: 40px 0;">
-    <div style="text-align: left; max-width: 600px;">
+<table align="center">
+  <tr>
+    <td valign="top" width="60%">
       <h2>🧑‍💻 About Me</h2>
       <p>
-        I'm a <strong>Full Stack Developer</strong> passionate about building <strong>AI-powered web solutions</strong> that solve real business problems. With expertise in both <strong>cutting-edge web technologies</strong> and <strong>Data Structures & Algorithms</strong>, I create applications that are both powerful and efficient.
+        Hi, I’m <strong>Genius</strong>, a passionate Full Stack Web Developer with a strong grip on <strong>Data Structures & Algorithms</strong> and a vision for crafting <strong>AI-powered, scalable, and high-performance web apps</strong>.
       </p>
       <ul>
-        <li>🔧 <strong>Specialized</strong> in MERN stack & Next.js applications</li>
-        <li>🧠 <strong>Strong foundation</strong> in DSA problem-solving</li>
-        <li>🚀 <strong>Built and deployed</strong> 20+ production-ready web apps</li>
-        <li>💡 <strong>Skilled</strong> in JavaScript, Python, TypeScript, and modern frameworks</li>
-        <li>🔒 <strong>Experience</strong> with authentication, REST APIs, and cloud deployment</li>
+        <li>🧱 I specialize in the <strong>MERN stack</strong> with deep experience in <strong>Next.js</strong> for SSR and fast rendering</li>
+        <li>🧠 Blend <strong>DSA problem-solving</strong> with real-world development</li>
+        <li>🧰 Skilled in <strong>JavaScript</strong>, <strong>Python</strong>, and <strong>TypeScript</strong></li>
+        <li>🚀 Built complete SaaS platforms, REST APIs, and interactive dashboards</li>
+        <li>📦 Deploy on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Heroku</strong></li>
       </ul>
-      <blockquote style="border-left: 3px solid #6e5494; padding-left: 15px; font-style: italic;">
+      <blockquote>
         "The best code is not only efficient, but elegant. DSA taught me how to think, Full Stack lets me build it."
       </blockquote>
-    </div>
-    <div>
+    </td>
+    <td align="center" width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
