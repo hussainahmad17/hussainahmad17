@@ -46,7 +46,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
         <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="50" alt="Supabase" title="Supabase" />
         <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="Material UI" title="Material UI" />
       </p>
     </td>
