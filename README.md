@@ -38,7 +38,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
         <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="50" alt="Next.js" title="Next.js" style="background:white; padding: 5px; border-radius: 5px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js" title="Node.js" />
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50" alt="Express.js" title="Express.js" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" alt="Express.js" title="Express.js" style="background:white; padding:5px; border-radius:5px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB" />
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
@@ -50,15 +50,34 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="Material UI" title="Material UI" />
       </p>
     </td>
+
     <td valign="top" width="50%">
       <h2>🔧 Services I Offer</h2>
       <ul>
-        <li>✅ <strong>Full Stack Web App Development (MERN / Next.js)</strong></li>
-        <li>✅ <strong>AI-powered Logic Integrations (Python + APIs)</strong></li>
-        <li>✅ <strong>Responsive Frontend using Tailwind, MUI</strong></li>
-        <li>✅ <strong>RESTful API Development & Authentication</strong></li>
-        <li>✅ <strong>Deployment on Vercel / Netlify / Heroku</strong></li>
-        <li>✅ <strong>Code Optimization, Bug Fixes & Scalability</strong></li>
+        <li>
+          <img src="https://img.icons8.com/color/48/000000/source-code.png" height="20"/> 
+          <strong>Full Stack Web App Development (MERN / Next.js)</strong>
+        </li>
+        <li>
+          <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" height="20"/> 
+          <strong>AI-powered Logic Integrations (Python + APIs)</strong>
+        </li>
+        <li>
+          <img src="https://img.icons8.com/color/48/000000/responsive.png" height="20"/> 
+          <strong>Responsive Frontend using Tailwind, MUI</strong>
+        </li>
+        <li>
+          <img src="https://img.icons8.com/color/48/000000/api.png" height="20"/> 
+          <strong>RESTful API Development & Authentication</strong>
+        </li>
+        <li>
+          <img src="https://img.icons8.com/ios-filled/50/000000/cloud-upload.png" height="20"/> 
+          <strong>Deployment on Vercel / Netlify / Heroku</strong>
+        </li>
+        <li>
+          <img src="https://img.icons8.com/color/48/000000/maintenance.png" height="20"/> 
+          <strong>Code Optimization, Bug Fixes & Scalability</strong>
+        </li>
       </ul>
     </td>
   </tr>
