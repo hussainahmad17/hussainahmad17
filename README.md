@@ -1,32 +1,73 @@
-**👋 About Me**
+# 👨‍💻 Hussain Ahmad | Full Stack Developer & DSA Enthusiast
 
-I'm a MERN Stack Developer with over a year of hands-on experience building scalable web apps and APIs. I hold a BSc in Software Engineering from NTU and love working with React, Node.js, and MongoDB. I thrive in agile teams and enjoy solving real-world problems with clean code.
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat)
+![Languages](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+![Languages](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
+![Frameworks](https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=next.js)
+![Database](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)
+![DSA Focus](https://img.shields.io/badge/DSA-Leetcode%20%7C%20Codeforces-brightgreen?style=flat&logo=leetcode)
 
-**🛠 Tech Stack & Tools**
+---
 
+🧠 **Providing AI-Powered Full Stack Web Solutions to Businesses**  
+📍 Based in: 🌍 Pakistan | Working Worldwide 🌐
 
-<p align="center">
-  <!-- MERN Stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+---
 
-  <!-- Core Web Technologies -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+## 🚀 Tech Stack & Specialties
 
-  <!-- Tools & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+- 🧩 **Full Stack**: `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Next.js`
+- 🧠 **AI & Backend**: `Python`, `Supabase`, `RESTful APIs`, `JWT`, `Auth`
+- 📱 **Frontend**: `Tailwind CSS`, `Material UI`, `Styled Components`
+- 🚀 **Deployment**: `Vercel`, `Netlify`, `Heroku`
+- 🛠️ **Tools**: `VS Code`, `Postman`, `Git`, `Figma`, `Linux Terminal`
 
+---
 
+## 📊 Data Structures & Algorithms (DSA) Journey
 
+- 🔍 Deep focus on mastering **Data Structures** like Arrays, Trees, Graphs, Heaps, and Tries  
+- 🚀 Solving **algorithmic challenges** daily on platforms like [LeetCode](https://leetcode.com), [Codeforces](https://codeforces.com) & [GeeksforGeeks](https://www.geeksforgeeks.org)
+- 🧠 Applying DSA in real-world projects to write **optimized, scalable code**
+- ✅ Key strengths:  
+  - 🔁 Recursion, Backtracking  
+  - 🕸 Graph Traversal (BFS/DFS)  
+  - 🧮 Dynamic Programming  
+  - 🗂 Sorting & Searching  
+  - 🔐 Hashing & Sliding Window
 
-🤝 Soft Skills
+---
 
+## 🔧 Services I Offer
 
-![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-4caf50?style=flat-square&logo=thinking&logoColor=white)
-![Team Player](https://img.shields.io/badge/-Team%20Player-2196f3?style=flat-square&logo=groupme&logoColor=white)
-![Clean Code](https://img.shields.io/badge/-Clean%20Code-e91e63?style=flat-square&logo=eslint&logoColor=white)
+- 📲 Responsive **MERN** Solutions  
+- 🎨 Custom UX/UI Interfaces  
+- 🔌 REST API Integration & Development  
+- 🪲 Debugging & Performance Optimization  
+- 🚀 End-to-End Deployment (Vercel, Netlify, Heroku)  
+- 📈 Code Refactoring & Maintainability Best Practices
+
+---
+
+## 🧭 Philosophy
+
+> "Code is not just syntax—it's logic, strategy, and creativity."  
+> I write **clean**, **performant**, and **production-ready** code that aligns with your business goals.
+
+---
+
+## 📩 Let’s Connect & Build Something Amazing
+
+- 💬 Open to **collaborations**, **DSA challenges**, and **freelance work**
+- 📧 Reach me via email or connect on [LinkedIn](https://www.linkedin.com)
+- 🔥 Let’s build projects that scale and solve **real-world problems**
+
+---
+
+## ⚡ Fun Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+
+---
+
