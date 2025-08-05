@@ -3,77 +3,65 @@
 
 ---
 
-## 💼 Tech Stack & Tools
+## 💼 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="60" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="60" alt="Supabase" />
 </p>
 
 ---
 
-## 📊 DSA — Data Structures & Algorithms
+## 📊 DSA – Data Structures & Algorithms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode" />
+  <img src="https://sta.codeforces.com/s/36561/images/codeforces-logo-with-telegram.png" height="50" alt="Codeforces" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" height="50" alt="GeeksforGeeks" />
 </p>
 
-🔍 Passionate about solving complex problems through:
-- 📌 Arrays, Strings, Trees, Graphs
-- 🔁 Recursion, Backtracking
-- 🧠 Dynamic Programming
-- 📊 Sliding Window, Two Pointers
-- ⚙️ Hashing, Stack, Queue
-- 🧮 Time & Space Optimization
-
-> DSA isn't just for interviews — I embed it into every backend logic & feature I build.
+I focus daily on:
+- 🧠 **Graph & Tree Traversals**
+- ⚙️ **Recursion, Backtracking**
+- 🧮 **Dynamic Programming & Greedy**
+- 📊 **Hashing, Sliding Window**
+- 📚 Solving on LeetCode, Codeforces, and GeeksforGeeks
 
 ---
 
-## ⚒️ Services I Offer
+## 🔧 Services I Offer
 
-- 🖥️ Full Stack Web App Development
-- 📱 Responsive MERN Websites
-- 🎨 UX/UI Design Implementation
-- 🔗 RESTful API Integration
-- 🪲 Bug Fixing & Performance Tuning
-- 🚀 Deployment on Vercel, Netlify, Heroku
-
----
-
-## 🌱 What I'm Currently Working On
-
-- 👨‍💻 Building large-scale, scalable React & Next.js applications
-- 📘 Deepening expertise in Graphs and Advanced DP
-- 💡 Exploring AI integrations in real-world applications
+- Full Stack Web App Development (MERN / Next.js)
+- AI-powered Logic Integrations (Python + APIs)
+- Responsive Frontend using Tailwind, MUI
+- RESTful API Development & Authentication
+- Deployment on Vercel / Netlify / Heroku
+- Code Optimization, Bug Fixes & Scalability
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let’s Collaborate
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/yourhandle"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="mailto:your.hussainahmad.dev.17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hussainahmaddev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 Quote I Live By
 
-> “The best programmers are not those who know everything, but those who solve anything with what they know.”
+> "The best code is not only efficient, but elegant. DSA taught me how to think, Full Stack lets me build it."
 
 ---
-
