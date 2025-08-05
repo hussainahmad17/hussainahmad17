@@ -27,54 +27,47 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h2>💼 Core Expertise</h2>
-      <p>
-        Tools & technologies I use to build powerful <strong>MERN Stack</strong> web apps.
-      </p>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
-        <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="50" alt="Next.js" title="Next.js" style="background:white; padding: 5px; border-radius: 5px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js" title="Node.js" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" alt="Express.js" title="Express.js" style="background:white; padding:5px; border-radius:5px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB" />
-        <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="50" alt="Supabase" title="Supabase" />
-        <br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="Material UI" title="Material UI" />
-      </p>
-    </td>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-   <td valign="top" width="50%">
-  <h2>💼 Core Expertise</h2>
-  <p>
-    Tools & technologies I use to build powerful <strong>MERN Stack</strong> web apps.
-  </p>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
-    <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="50" alt="Next.js" title="Next.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js" title="Node.js" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" alt="Express.js" title="Express.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB" />
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="50" alt="Supabase" title="Supabase" />
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="Material UI" title="Material UI" />
-  </p>
+<h3>💼 Core Expertise</h3>
+<p>Tools & technologies I use to build powerful <strong>MERN Stack</strong> web apps.</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" alt="Supabase" title="Supabase" />
+  <br /><br />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" title="Material UI" />
+</p>
+
 </td>
+<td valign="top" width="50%">
 
-  </tr>
+<h3>🔧 Services I Offer</h3>
+
+<ul>
+  <li><img src="https://img.icons8.com/color/48/source-code.png" height="20"/> <strong>Full Stack Web App Development (MERN / Next.js)</strong></li>
+  <li><img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="20"/> <strong>AI-powered Logic Integrations (Python + APIs)</strong></li>
+  <li><img src="https://img.icons8.com/color/48/responsive.png" height="20"/> <strong>Responsive Frontend using Tailwind, MUI</strong></li>
+  <li><img src="https://img.icons8.com/color/48/api.png" height="20"/> <strong>RESTful API Development & Authentication</strong></li>
+  <li><img src="https://img.icons8.com/ios-filled/50/cloud-upload.png" height="20"/> <strong>Deployment on Vercel / Netlify / Heroku</strong></li>
+  <li><img src="https://img.icons8.com/color/48/maintenance.png" height="20"/> <strong>Code Optimization, Bug Fixes & Scalability</strong></li>
+</ul>
+
+</td>
+</tr>
 </table>
+
 
 ---
 
