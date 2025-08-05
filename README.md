@@ -56,12 +56,12 @@
 <h3>🔧 Services I Offer</h3>
 
 <ul>
-  <li><img src="https://img.icons8.com/color/48/source-code.png" height="20"/> <strong>Full Stack Web App Development (MERN / Next.js)</strong></li>
-  <li><img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="20"/> <strong>AI-powered Logic Integrations (Python + APIs)</strong></li>
-  <li><img src="https://img.icons8.com/color/48/responsive.png" height="20"/> <strong>Responsive Frontend using Tailwind, MUI</strong></li>
-  <li><img src="https://img.icons8.com/color/48/api.png" height="20"/> <strong>RESTful API Development & Authentication</strong></li>
-  <li><img src="https://img.icons8.com/ios-filled/50/cloud-upload.png" height="20"/> <strong>Deployment on Vercel / Netlify / Heroku</strong></li>
-  <li><img src="https://img.icons8.com/color/48/maintenance.png" height="20"/> <strong>Code Optimization, Bug Fixes & Scalability</strong></li>
+  <li>💻 <strong>Full Stack Web App Development (MERN / Next.js)</strong></li>
+  <li>🤖 <strong>AI-powered Logic Integrations (Python + APIs)</strong></li>
+  <li>📱 <strong>Responsive Frontend using Tailwind, MUI</strong></li>
+  <li>🔐 <strong>RESTful API Development & Authentication</strong></li>
+  <li>🚀 <strong>Deployment on Vercel / Netlify / Heroku</strong></li>
+  <li>🛠️ <strong>Code Optimization, Bug Fixes & Scalability</strong></li>
 </ul>
 
 </td>
