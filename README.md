@@ -1,4 +1,22 @@
-<h1 align="center">Hi 👋, I'm Genius</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+## 🧑‍💻 About Me
+
+Hi, I’m **Hissain Ahmad**, a passionate Full Stack Web Developer with a grip on **Data Structures & Algorithms** and a vision for crafting **AI-powered, scalable, and high-performance web apps**.
+
+- 🧱 I specialize in the **MERN stack** — MongoDB, Express.js, React, and Node.js — with deep experience in **Next.js** for SSR and fast rendering.
+- 🧠 I blend my **DSA problem-solving mindset** with real-world development to build optimized and efficient systems.
+- 🧰 Skilled in **JavaScript**, **Python**, and **TypeScript**, and experienced with **Supabase**, **Tailwind CSS**, and **Material UI**.
+- 🚀 I’ve built complete SaaS platforms, portfolio sites, REST APIs, authentication systems, and interactive dashboards.
+- 📦 I deploy on **Vercel**, **Netlify**, and **Heroku**, ensuring apps are production-ready, fast, and secure.
+
+> Whether it's solving a tough LeetCode problem or architecting a scalable frontend/backend — I approach every line of code with clarity, precision, and user focus.
+
+---
+
+<h1 align="center">Hi 👋, I'm Hussain Ahmad</h1>
 <h3 align="center">🚀 Providing AI-Powered Full Stack Web Solutions to Businesses</h3>
 
 ---
@@ -55,9 +73,6 @@
   </a>
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/yourusername">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
