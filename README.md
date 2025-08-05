@@ -1,73 +1,79 @@
-# 👨‍💻 Hussain Ahmad | Full Stack Developer & DSA Enthusiast
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat)
-![Languages](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
-![Languages](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
-![Frameworks](https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=next.js)
-![Database](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)
-![DSA Focus](https://img.shields.io/badge/DSA-Leetcode%20%7C%20Codeforces-brightgreen?style=flat&logo=leetcode)
+<h1 align="center">Hi 👋, I'm Hussain Ahmad</h1>
+<h3 align="center">🚀 Providing AI-Powered Full Stack Web Solutions to Businesses</h3>
 
 ---
 
-🧠 **Providing AI-Powered Full Stack Web Solutions to Businesses**  
-📍 Based in: 🌍 Pakistan | Working Worldwide 🌐
+## 💼 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
-## 🚀 Tech Stack & Specialties
+## 📊 DSA — Data Structures & Algorithms
 
-- 🧩 **Full Stack**: `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Next.js`
-- 🧠 **AI & Backend**: `Python`, `Supabase`, `RESTful APIs`, `JWT`, `Auth`
-- 📱 **Frontend**: `Tailwind CSS`, `Material UI`, `Styled Components`
-- 🚀 **Deployment**: `Vercel`, `Netlify`, `Heroku`
-- 🛠️ **Tools**: `VS Code`, `Postman`, `Git`, `Figma`, `Linux Terminal`
+<p align="center">
+  <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</p>
 
----
+🔍 Passionate about solving complex problems through:
+- 📌 Arrays, Strings, Trees, Graphs
+- 🔁 Recursion, Backtracking
+- 🧠 Dynamic Programming
+- 📊 Sliding Window, Two Pointers
+- ⚙️ Hashing, Stack, Queue
+- 🧮 Time & Space Optimization
 
-## 📊 Data Structures & Algorithms (DSA) Journey
-
-- 🔍 Deep focus on mastering **Data Structures** like Arrays, Trees, Graphs, Heaps, and Tries  
-- 🚀 Solving **algorithmic challenges** daily on platforms like [LeetCode](https://leetcode.com), [Codeforces](https://codeforces.com) & [GeeksforGeeks](https://www.geeksforgeeks.org)
-- 🧠 Applying DSA in real-world projects to write **optimized, scalable code**
-- ✅ Key strengths:  
-  - 🔁 Recursion, Backtracking  
-  - 🕸 Graph Traversal (BFS/DFS)  
-  - 🧮 Dynamic Programming  
-  - 🗂 Sorting & Searching  
-  - 🔐 Hashing & Sliding Window
+> DSA isn't just for interviews — I embed it into every backend logic & feature I build.
 
 ---
 
-## 🔧 Services I Offer
+## ⚒️ Services I Offer
 
-- 📲 Responsive **MERN** Solutions  
-- 🎨 Custom UX/UI Interfaces  
-- 🔌 REST API Integration & Development  
-- 🪲 Debugging & Performance Optimization  
-- 🚀 End-to-End Deployment (Vercel, Netlify, Heroku)  
-- 📈 Code Refactoring & Maintainability Best Practices
-
----
-
-## 🧭 Philosophy
-
-> "Code is not just syntax—it's logic, strategy, and creativity."  
-> I write **clean**, **performant**, and **production-ready** code that aligns with your business goals.
+- 🖥️ Full Stack Web App Development
+- 📱 Responsive MERN Websites
+- 🎨 UX/UI Design Implementation
+- 🔗 RESTful API Integration
+- 🪲 Bug Fixing & Performance Tuning
+- 🚀 Deployment on Vercel, Netlify, Heroku
 
 ---
 
-## 📩 Let’s Connect & Build Something Amazing
+## 🌱 What I'm Currently Working On
 
-- 💬 Open to **collaborations**, **DSA challenges**, and **freelance work**
-- 📧 Reach me via email or connect on [LinkedIn](https://www.linkedin.com)
-- 🔥 Let’s build projects that scale and solve **real-world problems**
+- 👨‍💻 Building large-scale, scalable React & Next.js applications
+- 📘 Deepening expertise in Graphs and Advanced DP
+- 💡 Exploring AI integrations in real-world applications
 
 ---
 
-## ⚡ Fun Stats
+## 🤝 Let's Collaborate
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/yourhandle"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧠 Quote I Live By
+
+> “The best programmers are not those who know everything, but those who solve anything with what they know.”
 
 ---
 
