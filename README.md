@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I’m **Hissain Ahmad**, a passionate Full Stack Web Developer with a grip on **Data Structures & Algorithms** and a vision for crafting **AI-powered, scalable, and high-performance web apps**.
+Hi, I’m **Genius**, a passionate Full Stack Web Developer with a strong grip on **Data Structures & Algorithms** and a vision for crafting **AI-powered, scalable, and high-performance web apps**.
 
 - 🧱 I specialize in the **MERN stack** — MongoDB, Express.js, React, and Node.js — with deep experience in **Next.js** for SSR and fast rendering.
 - 🧠 I blend my **DSA problem-solving mindset** with real-world development to build optimized and efficient systems.
@@ -16,7 +16,7 @@ Hi, I’m **Hissain Ahmad**, a passionate Full Stack Web Developer with a grip o
 
 ---
 
-<h1 align="center">Hi 👋, I'm Hussain Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Genius</h1>
 <h3 align="center">🚀 Providing AI-Powered Full Stack Web Solutions to Businesses</h3>
 
 ---
@@ -25,9 +25,9 @@ Hi, I’m **Hissain Ahmad**, a passionate Full Stack Web Developer with a grip o
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="50" alt="Next.js" title="Next.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/512px-Nextjs-logo.svg.png" height="50" alt="Next.js" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" alt="Express.js" title="Express.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" alt="Express.js" title="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
@@ -73,6 +73,9 @@ Hi, I’m **Hissain Ahmad**, a passionate Full Stack Web Developer with a grip o
   </a>
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
