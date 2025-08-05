@@ -16,7 +16,7 @@
         <li>📦 Deploy on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Heroku</strong></li>
       </ul>
       <blockquote>
-        "The best code is not only efficient, but elegant. DSA taught me how to think, Full Stack lets me build it."
+        "DSA trains the mind, Full Stack turns it into reality."
       </blockquote>
     </td>
     <td align="center" width="40%">
