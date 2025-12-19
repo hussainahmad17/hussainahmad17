@@ -1,68 +1,21 @@
-<h1 align="center">Hi 👋, I'm Hussain Ahmad</h1>
-<h3 align="center">🚀 Providing AI-Powered Full Stack Web Solutions to Businesses</h3>
+# 💫 About Me:
+Hi, I’m Hussain Ahmad, a Software Engineer & MERN Stack Developer passionate about building scalable, high-performance, and AI-ready web applications that solve real business problems.<br><br>I specialize in creating modern web apps using Next.js, React.js, MERN, and Django, combining strong Data Structures & Algorithms (DSA) fundamentals with practical, production-ready development. I build complete solutions—from scalable backend APIs and dashboards to full SaaS platforms—with a focus on speed, reliability, and clean architecture.<br><br>Beyond development, I help businesses automate time-consuming workflows, optimize internal operations, and reduce repetitive manual work—allowing teams to execute faster and more efficiently.<br><br>Tech & Strengths:<br><br>MERN stack with deep Next.js expertise (SSR & performance optimization)<br><br>JavaScript, TypeScript, Python<br><br>Scalable REST APIs & interactive dashboards<br><br>Cloud deployment on AWS, Vercel, and Render<br><br>My goal:<br>Build software that helps businesses run smoother, faster, and smarter.<br><br>If you’re a founder, entrepreneur, or business owner looking to modernize your digital presence or automate workflows, let’s connect.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
 
-## 🧑‍💻 About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soft.eng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussainahmaddev/) 
 
-Hi, I'm **Hussain Ahmad**, a **MERN Stack Developer** with a grip on **Data Structures & Algorithms (DSA)** and a vision for crafting **AI-powered, scalable, and high-performance web apps**.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hussainahmad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hussainahmad17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🧱 I specialize in the **MERN stack** with deep experience in **Next.js** for SSR and fast rendering
-- 🧠 Blend **DSA problem-solving** with real-world development
-- 🧰 Skilled in **JavaScript**, **Python**, and **TypeScript**
-- 🚀 Built complete SaaS platforms, REST APIs, and interactive dashboards
-- 📦 Deploy on **Vercel**, **Netlify**, and **Heroku**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hussainahmad17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-> "DSA trains the mind, Full Stack turns it into reality."
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-<div align="center">
-  
-### 💼 Core Expertise
-
-Tools & technologies I use to build powerful **MERN Stack** web apps.
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
-  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="50" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js" title="Node.js" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" alt="Express.js" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="50" alt="Supabase" title="Supabase" />
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="Material UI" title="Material UI" />
-</p>
-
-</div>
-
----
-
-### 🔧 Services I Offer
-
-- 💻 **Full Stack Web App Development (MERN / Next.js)**
-- 🤖 **AI-powered Logic Integrations (Python + APIs)**
-- 📱 **Responsive Frontend using Tailwind, MUI**
-- 🔐 **RESTful API Development & Authentication**
-- 🚀 **Deployment on Vercel / Netlify / Heroku**
-- 🛠️ **Code Optimization, Bug Fixes & Scalability**
-
----
-
-## 🤝 Let's Collaborate
-
-<p align="center">
-  <a href="mailto:hussainahmad.dev.17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hussainahmaddev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
