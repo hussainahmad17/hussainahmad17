@@ -1,6 +1,6 @@
 <!-- Typing Widget -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full-stack%20Web%20Developer;Building%20Scalable%20Web%20Applications&font=Fira%20Code&center=true&width=500&height=45&color=ff9a0c&vCenter=true&size=26&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full-stack%20Web%20Developer;BBuilding%20Scalable%20Web%20Applications&font=Fira%20Code&center=true&width=500&height=45&color=ff9a0c&vCenter=true&size=26&pause=1000">
 </p>
 
 <!-- Bio -->
