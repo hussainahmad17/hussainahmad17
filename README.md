@@ -1,6 +1,6 @@
 <!-- Typing Widget -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full-stack%20Web%20Developer;BBuilding%20Scalable%20Web%20Applications&font=Fira%20Code&center=true&width=500&height=45&color=ff9a0c&vCenter=true&size=26&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF9A0C&center=true&vCenter=true&width=600&height=45&lines=AI+Software+Engineer;AI+Web+Developer;Business+Automation+Expert;Building+Scalable+Web+Applications">
 </p>
 
 <!-- Bio -->
@@ -21,16 +21,6 @@
 <br>
 <hr>
 <br>
-
-<!-- Quote -->
-<div align="center">
-  <a href="https://github.com/hussainahmad17">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
-  </a>
-</div>
-
-<br>
-<hr>
 
 <!-- Languages -->
 <br>
