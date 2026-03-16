@@ -18,10 +18,6 @@
   </h4>
 </div>
 
-<br>
-<hr>
-<br>
-
 <!-- Languages -->
 <br>
 <h2 align='center'>
