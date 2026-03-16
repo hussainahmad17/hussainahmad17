@@ -1,19 +1,159 @@
-# 💫 About Me:
-Hi, I’m Hussain Ahmad, a Software Engineer and Web Developer focused on building scalable, high-performance web applications that solve real business challenges.
+<!-- Typing Widget -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full-stack%20Web%20Developer;Building%20Scalable%20Web%20Applications&font=Fira%20Code&center=true&width=500&height=45&color=ff9a0c&vCenter=true&size=26&pause=1000">
+</p>
 
-I work primarily with modern web technologies combining strong fundamentals in Data Structures & Algorithms (DSA) with real-world, production-ready engineering. My experience includes developing end-to-end web applications, scalable backend APIs, admin dashboards, and SaaS platforms, with an emphasis on clean architecture, performance, and maintainability.
+<!-- Bio -->
+<div align="center">
+  <h4 width=50%>
+  Hi, I'm Hussain Ahmad — a Software Engineer focused on building scalable,
+  high-performance web applications that solve real business problems.
+  </h4>
+</div>
 
+<div align="center">
+  <h4 width=50%>
+  I specialize in modern full-stack development with strong fundamentals in
+  Data Structures & Algorithms and production-grade backend systems.
+  </h4>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soft.eng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussainahmaddev/) 
+<br>
+<hr>
+<br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hussainahmad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hussainahmad17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Quote -->
+<div align="center">
+  <a href="https://github.com/hussainahmad17">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+<hr>
+
+<!-- Languages -->
+<br>
+<h2 align='center'>
+Languages
+</h2>
+
+<div align="center">
+  <a href="https://github.com/hussainahmad17">
+    <img src="https://skillicons.dev/icons?i=js,py" />
+  </a>
+</div>
+
+<br>
+
+<h2 align='center'>
+Frontend Frameworks & Libraries
+</h2>
+
+<div align="center">
+  <a href="https://github.com/hussainahmad17">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
+  </a>
+</div>
+
+<br>
+
+<h2 align='center'>
+Backend Frameworks
+</h2>
+
+<div align="center">
+  <a href="https://github.com/hussainahmad17">
+    <img src="https://skillicons.dev/icons?i=nodejs,django" />
+  </a>
+</div>
+
+<br>
+
+<h2 align='center'>
+Databases
+</h2>
+
+<div align="center">
+  <a href="https://github.com/hussainahmad17">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+  </a>
+</div>
+
+<br>
+
+<h2 align='center'>
+Cloud & DevOps
+</h2>
+
+<div align="center">
+  <a href="https://github.com/hussainahmad17">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,linux,git,github" />
+  </a>
+</div>
+
+<br>
+
+<h2 align='center'>
+Data Science & AI
+</h2>
+
+<div align="center">
+  <a href="https://github.com/hussainahmad17">
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </a>
+</div>
+
+<br>
+
+<h2 align='center'>
+Tools & Design
+</h2>
+
+<div align="center">
+  <a href="https://github.com/hussainahmad17">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</div>
+
+<br>
+<hr>
+
+<!-- GitHub Stats -->
+<h1 align="center">
+GitHub Stats
+</h1>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hussainahmad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=hussainahmad17&theme=dark&hide_border=false" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+</div>
+
+<br>
+<hr>
+
+<!-- Social icons section -->
+<h1 align='center'>
+Connect With Me
+</h1>
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hussainahmaddev" target="_blank">
+    <img width="48px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+  </a>
+
+  <a href="https://instagram.com/soft.eng" target="_blank">
+    <img width="48px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+  </a>
+</p>
