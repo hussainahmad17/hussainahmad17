@@ -4,7 +4,7 @@
 <!-- Typing Widget -->
 <!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Software%20Engineer;Web%20Developer;Business%20Automation%20Expert;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Software%20Engineer.;Web%20Developer.;Business%20Automation%20Expert.&center=true&width=500&height=50">
 </p>
 
 <!-- Bio -->
