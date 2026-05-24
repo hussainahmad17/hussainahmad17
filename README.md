@@ -177,15 +177,30 @@ I build intelligent, scalable, and business-focused software solutions using mod
 <br />
 
 ---
+---
 
-## Let's Build Something Valuable
+## Let's Connect
 
 <br />
 
 <div align="center">
 
-I am passionate about creating software that is not only functional, but also practical, scalable, and valuable for real-world business needs.
+I am always open to discussing new opportunities, collaborations, AI-powered products, web development projects, and business automation solutions.
 
+<br />
+
+<a href="mailto:hussainahmad.dev.17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hussainahmad.dev.17%40gmail.com-1e40af?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/hussainahmad17">
+  <img src="https://img.shields.io/badge/GitHub-hussainahmad17-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br />
 <br />
 
 <strong>AI Systems • Web Applications • Automation Workflows • Business Software</strong>
@@ -196,8 +211,3 @@ I am passionate about creating software that is not only functional, but also pr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=120&section=footer" alt="Footer" />
 
 </div>
-
-<p align="center">
-  <strong>Email:</strong> 
-  <a href="mailto:hussainahmad.dev.17@gmail.com">hussainahmad.dev.17@gmail.com</a>
-</p>
