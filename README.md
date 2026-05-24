@@ -196,3 +196,8 @@ I am passionate about creating software that is not only functional, but also pr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=120&section=footer" alt="Footer" />
 
 </div>
+
+<p align="center">
+  <strong>Email:</strong> 
+  <a href="mailto:hussainahmad.dev.17@gmail.com">hussainahmad.dev.17@gmail.com</a>
+</p>
