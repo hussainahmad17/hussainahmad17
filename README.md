@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Yousaf Sabir
+# Hi, I'm Hussain Ahmad
 
 ### AI Software Engineer | Web Developer | Business Automation Expert
 
@@ -86,79 +86,26 @@ I build intelligent, scalable, and business-focused software solutions using mod
   <tr>
     <td width="50%" align="center">
       <h3>Full-Stack Development</h3>
-      <p>
-        I develop fast, scalable, and maintainable web applications using modern frontend and backend technologies.
-      </p>
     </td>
     <td width="50%" align="center">
       <h3>AI & Automation</h3>
-      <p>
-        I build AI-powered systems and automation workflows that reduce manual work and improve business efficiency.
-      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>Backend Engineering</h3>
-      <p>
-        I create secure APIs, database architectures, authentication systems, and backend services.
-      </p>
     </td>
     <td width="50%" align="center">
       <h3>Business Solutions</h3>
-      <p>
-        I focus on software that solves practical business problems and creates measurable value.
-      </p>
     </td>
   </tr>
 </table>
 
 <br />
-
----
-
-## Professional Focus
-
-<br />
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Clean Architecture</strong>
-      <br />
-      Writing structured, reliable, and scalable code.
-    </td>
-    <td align="center">
-      <strong>Performance</strong>
-      <br />
-      Building fast and optimized digital products.
-    </td>
-    <td align="center">
-      <strong>Automation</strong>
-      <br />
-      Reducing repetitive work through smart workflows.
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br />
-
----
 
 ## GitHub Stats
 
 <br />
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yousafsabir&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
 
 <p align="center">
   <img 
@@ -167,12 +114,6 @@ I build intelligent, scalable, and business-focused software solutions using mod
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafsabir&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
 
 <br />
 
@@ -203,7 +144,6 @@ I am always open to discussing new opportunities, collaborations, AI-powered pro
 <br />
 <br />
 
-<strong>AI Systems • Web Applications • Automation Workflows • Business Software</strong>
 
 <br />
 <br />
