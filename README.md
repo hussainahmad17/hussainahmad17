@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** specializing in **AI integrations**, **fintech infrastructure**, and **business automation**. I build products that scale — from custom payment gateway connectors to AI-powered SaaS platforms.
+I'm a **AI Software Engineer** specializing in **AI integrations**, **fintech infrastructure**, and **business automation**. I build products that scale — from custom payment gateway connectors to AI-powered SaaS platforms.
 
 - 🔭 Currently working on **prop trading platforms**, **AI-driven backends**, and **payment orchestration systems**
 - 🧠 Passionate about **LLM integrations**, **workflow automation**, and **cloud infrastructure**
@@ -143,9 +143,6 @@ I'm a **Full-Stack Software Engineer** specializing in **AI integrations**, **fi
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.upwork.com/freelancers/~01cdd3c9c62e2d2e83">
-  <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="48"/>
-</a>
 
 <br/><br/>
 
