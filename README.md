@@ -1,86 +1,130 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hussain+Ahmad+%F0%9F%91%8B;AI+Software+Engineer;Full-Stack+Web+Developer;Business+Automation+Expert" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hussain%20Ahmad&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Automation%20Expert&descAlignY=62&descSize=16" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Fintech+%26+Payment+Infrastructure+%F0%9F%92%B3;Full-Stack+SaaS+%26+Trading+Platforms+%F0%9F%93%88;Automating+Everything+That+Can+Be+Automated+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/hussainahmaddev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/hussainahmad17"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+<a href="mailto:hussainahmad.dev.17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://www.upwork.com/freelancers/~01cdd3c9c62e2d2e83"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=hussainahmad17&label=Profile+Views&color=58a6ff&style=flat-square"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** with a specialization in **AI integrations**, **fintech infrastructure**, and **business automation**. I build products that scale — from custom payment gateway connectors to AI-powered SaaS platforms.
+```ts
+const hussain = {
+  roles    : ["AI Software Engineer", "Full-Stack Developer", "Business Automation Expert"],
+  stack    : ["TypeScript", "Python", "React", "Node.js", "NestJS", "PostgreSQL", "Docker"],
+  domains  : ["Fintech", "SaaS", "Prop Trading", "AI/LLM", "Hotel Management", "Legal Tech"],
+  currently: "Building payment infrastructure & AI-powered platforms",
+  funFact  : "Integrated more payment gateways than fingers on both hands 💳",
+};
+```
 
-- 🔭 Currently working on **prop trading platforms**, **AI-driven backends**, and **payment orchestration systems**
-- 🧠 Passionate about **LLM integrations**, **workflow automation**, and **cloud infrastructure**
-- 💼 Freelance contractor across **fintech**, **SaaS**, **legal tech**, and **hotel management** domains
-- 🌍 Based in **Karachi, Pakistan** — working with clients globally
-- ⚡ Fun fact: I've integrated more payment gateways than I can count on two hands
+<br/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Frontend Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+#### Languages
+<img src="https://skillicons.dev/icons?i=ts,python,js,html,css&theme=dark" />
 
-### Backend Frameworks & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+#### Frontend Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,sass,materialui,redux&theme=dark" />
 
-### Databases & ORMs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+#### Backend Frameworks & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi&theme=dark" />
 
-### DevOps, Cloud & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+#### Databases & ORMs
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,supabase&theme=dark" />
+
+#### DevOps, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=docker,github,aws,linux,firebase,vercel,nginx,terraform&theme=dark" />
+
+</div>
+
+<br/>
 
 ---
 
 ## 🚀 What I Build
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🤖  AI & LLM Integration      →  OpenAI, Gemini, Claude  │
-│   💳  Payment Infrastructure    →  Hyperswitch, CardPointe │
-│                                     JazzCash, EasyPaisa    │
-│   📈  Trading Platforms         →  Prop Firm Systems,      │
-│                                     WebSocket Terminals    │
-│   ⚙️   Business Automation       →  Workflow Pipelines,    │
-│                                     Scrapers, AI Agents    │
-│   ☁️   Cloud Infrastructure      →  AWS, Vultr, Docker,    │
-│                                     Nginx, CI/CD           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & LLM Engineering
+Building intelligent systems that actually work in production. Integrating OpenAI, Gemini, Claude, and custom models into SaaS backends with RAG pipelines, AI agents, and prompt engineering.
+
+**Stack:** Python · LangChain · OpenAI API · Vector DBs
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 Fintech & Payment Infrastructure
+Deep expertise in payment orchestration. Custom connector development for Hyperswitch, 3DS flows, async webhook pipelines, and multi-gateway routing.
+
+**Gateways:** Hyperswitch · CardPointe · JazzCash · EasyPaisa · PavoPay
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Prop Trading Platforms
+End-to-end prop firm systems with live WebSocket terminals, PnL engines, leverage/margin calculation, and exchange integrations.
+
+**Integrations:** Bybit · MT5 · Live Order Feeds
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Business Automation
+Automating repetitive operations — Google Maps scrapers, AI-scored lead gen pipelines, PDF processors, and multi-step workflow automation.
+
+**Tools:** Selenium · DeepSeek AI · Python Pipelines
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Server Infrastructure
+Self-hosted deployments on AWS, Vultr, DigitalOcean. Nginx reverse proxy, PM2 process management, Docker Compose stacks, SSL, and CI/CD pipelines.
+
+**Stack:** Docker · Nginx · PM2 · Certbot · GitHub Actions
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ SaaS & Multi-Tenant Systems
+Full-stack SaaS architecture from auth to billing. Role-based access control, multi-tenant data isolation, REST APIs, and subscription flows.
+
+**Stack:** NestJS · PostgreSQL · Prisma · React · Vite
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
@@ -88,39 +132,62 @@ I'm a **Full-Stack Software Engineer** with a specialization in **AI integration
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussainahmad17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmad17&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hussainahmad17&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmad17&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad17&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&dates=c9d1d9" alt="GitHub Streak"/>
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad17&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<br/>
 
 ---
 
 ## 🏆 Domain Expertise
 
-| Domain | Skills |
-|--------|--------|
-| 🤖 **AI Engineering** | LLM APIs, AI Agents, Prompt Engineering, RAG Pipelines |
-| 💳 **Fintech & Payments** | Hyperswitch, Custom Connectors, 3DS Flows, Webhook Verification |
-| 📊 **Trading Platforms** | Prop Firm Systems, PnL Engines, Bybit/MT5 Integration |
-| ⚙️ **Business Automation** | Process Automation, Data Pipelines, Web Scraping |
-| ☁️ **Infrastructure** | Self-hosted VPS, Docker Compose, Nginx, SSL/TLS, CI/CD |
-| 🏗️ **SaaS Architecture** | Multi-tenant Systems, REST APIs, Auth, Role-based Access |
+<div align="center">
+
+| | Domain | Core Skills |
+|---|--------|--------|
+| 🤖 | **AI Engineering** | LLM APIs · AI Agents · Prompt Engineering · RAG Pipelines |
+| 💳 | **Fintech & Payments** | Hyperswitch · Custom Connectors · 3DS Flows · Webhooks |
+| 📈 | **Trading Platforms** | Prop Firm Systems · PnL Engines · Bybit · MT5 Integration |
+| ⚙️ | **Business Automation** | Workflow Pipelines · Data Scrapers · AI Scoring Systems |
+| ☁️ | **Cloud Infrastructure** | Self-hosted VPS · Docker · Nginx · SSL/TLS · CI/CD |
+| 🏗️ | **SaaS Architecture** | Multi-tenant · REST APIs · Auth · Role-based Access |
+
+</div>
+
+<br/>
 
 ---
 
 ## 📌 Featured Projects
 
-> *(Pin your best repos on your GitHub profile and they'll show here automatically)*
+<div align="center">
 
-- 🔗 **Hyperswitch Custom Connector** — Self-hosted Hyperswitch stack with PavoPay, JazzCash & EasyPaisa integrations
-- 🔗 **Prop Trading Platform** — Full-stack NestJS + React trading infrastructure with live WebSocket terminals
-- 🔗 **AI Lead Generation Tool** — Google Maps scraper + DeepSeek AI scoring system for business prospecting
-- 🔗 **Multi-Gateway Checkout** — Unified checkout frontend supporting 6+ payment gateways with React `useRef` pattern
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad17&repo=hyperswitch-connector&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad17&repo=prop-trading-platform&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<br/>
+
+> 💡 **Notable work:**
+> - 🔗 **Hyperswitch Custom Connector** — Self-hosted stack with PavoPay, JazzCash & EasyPaisa integrations built in Rust
+> - 🔗 **Prop Trading Platform** — NestJS + React infrastructure with live WebSocket terminals & Bybit/MT5 engines
+> - 🔗 **AI Lead Generation Tool** — Google Maps scraper + DeepSeek AI scoring pipeline outputting ranked CSVs
+> - 🔗 **Multi-Gateway Checkout** — Unified checkout supporting 6+ payment gateways with React `useRef`/`forwardRef` pattern
+
+<br/>
 
 ---
 
@@ -128,17 +195,24 @@ I'm a **Full-Stack Software Engineer** with a specialization in **AI integration
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussainahmaddev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainahmad17)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainahmad.dev.17@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cdd3c9c62e2d2e83)
+<a href="https://www.linkedin.com/in/hussainahmaddev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~01cdd3c9c62e2d2e83">
+  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:hussainahmad.dev.17@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>💡 <i>Available for freelance projects, contracts & technical consulting — fintech, AI, SaaS, and trading platforms.</i></sub>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer" />
-  
-  <sub>💡 <i>Open to freelance projects, contract work, and technical consulting — especially in fintech, AI, and SaaS.</i></sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
